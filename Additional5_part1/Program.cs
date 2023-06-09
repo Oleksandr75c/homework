@@ -14,7 +14,6 @@ namespace ConsoleApp
             test1.CreateDefaultPhotoBook(out book1);
             test1.CreateCustomPhotoBook(out book1,24);
             test1.CreateBigPhotoBook(out book2);
-
         }
     }
 }
