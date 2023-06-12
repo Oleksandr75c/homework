@@ -1,5 +1,5 @@
-﻿using Homework6;
-using System;
+﻿using System;
+using Homework6;
 
 public class Student : Person
 {

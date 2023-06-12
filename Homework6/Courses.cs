@@ -1,8 +1,5 @@
-﻿
-
-namespace Homework6
-{
-    public class Courses
+﻿using System;
+public class Courses
     {
         public string name { get; set; }
         public string teacherName { get; set; }
@@ -33,5 +30,4 @@ namespace Homework6
             this.totalStudents++;
             st.counterCources++;
         }
-    }
 }
